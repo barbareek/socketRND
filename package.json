@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/barbareek/socketRND/issues"
   },
-  "homepage": "https://github.com/barbareek/socketRND#readme"
+  "homepage": "https://github.com/barbareek/socketRND#readme",
+  "dependencies": {
+    "ws": "^0.8.0"
+  }
 }
