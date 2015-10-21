@@ -1,0 +1,23 @@
+{
+  "name": "bes",
+  "version": "1.0.0",
+  "description": "backend server for client",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbareek/socketRND.git"
+  },
+  "keywords": [
+    "socket",
+    "rnd"
+  ],
+  "author": "suraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbareek/socketRND/issues"
+  },
+  "homepage": "https://github.com/barbareek/socketRND#readme"
+}
